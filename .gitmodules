@@ -1,0 +1,9 @@
+[submodule "tricky-gamecon-for-atari-st--pcb"]
+	path = tricky-gamecon-for-atari-st--pcb
+	url = https://github.com/sporniket/tricky-gamecon-for-atari-st--pcb.git
+[submodule "tricky-gamecon-for-atari-st--back"]
+	path = tricky-gamecon-for-atari-st--back
+	url = https://github.com/sporniket/tricky-gamecon-for-atari-st--back.git
+[submodule "tricky-gamecon-for-atari-st--front"]
+	path = tricky-gamecon-for-atari-st--front
+	url = https://github.com/sporniket/tricky-gamecon-for-atari-st--front.git
